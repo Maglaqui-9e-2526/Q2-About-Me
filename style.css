@@ -1,0 +1,18 @@
+body {
+
+}
+
+.hero-image {
+    background-image: url(Galaxy.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: bisque;
+}
